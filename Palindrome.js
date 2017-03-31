@@ -1,3 +1,5 @@
+// check if string is a palindrome or not
+
 function palindrome(str) {
   str = str.replace(/ /g, '');
   str = str.replace(/,/g, '');
