@@ -1,3 +1,5 @@
+// function to take string and give title casing
+
 function titleCase(str) {
   str = str.toLowerCase();
   var array = str.split(' ');
