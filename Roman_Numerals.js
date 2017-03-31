@@ -1,3 +1,5 @@
+// for 0 < num < 4000, convert to Roman numerals
+
 function convertToRoman(num) {
   var str = num.toString();
   var arr = str.split('');
