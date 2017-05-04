@@ -1,0 +1,15 @@
+{
+  "name": "@matthew_t_smith/chat-example",
+  "version": "0.0.1",
+  "repository": "www.github.com/matthew-t-smith/blah",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
